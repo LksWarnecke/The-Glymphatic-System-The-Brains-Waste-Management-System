@@ -1,4 +1,6 @@
-## Note:
+#The Brain's Waste Management: A Summary of the Glymphatic System
+
+### Note:
 This article is a summary of Jessen et al. (2015) and was written as an independent exercise.
 
 ## Introduction: The Biology of Central Waste Clearance
