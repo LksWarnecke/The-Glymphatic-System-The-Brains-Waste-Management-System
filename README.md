@@ -1,7 +1,6 @@
-#The Brain's Waste Management: A Summary of the Glymphatic System
+# The Brain's Waste Management: A Summary of the Glymphatic System
 
-### Note:
-This article is a summary of Jessen et al. (2015) and was written as an independent exercise.
+> **Note**: This article is a summary of Jessen et al. (2015) and was written as an independent exercise.
 
 ## Introduction: The Biology of Central Waste Clearance
 The glymphatic system is a waste clearance system engaged in the removal of soluble proteins and metabolites from the central nervous system (CNS). It also helps with the distribution of non-waste compounds like glucose, lipids, amino acids, and more. Although these mechanisms have been observed in experiments by Patricia Grady and Rennels et al. around 1985 (as cited in Jessen et al., 2015) and sparked discussions because the fluid flows could not be explained by the slow process of diffusion, the failure of reproducing these observations led to the incorrect conclusion that the cerebrospinal fluid (CSF) is entering the perivascular space only to an insignificant extent (Jessen et al., 2015).
